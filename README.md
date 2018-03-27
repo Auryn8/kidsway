@@ -26,7 +26,7 @@ Nos enfocamos en la tercera propuesta, pues fue a la que le vimos mayor potencia
 
 * **Analizamos el journey de usuario** 
 
-Detectamos los *pain points* y analizamos en cual podríamos enfocarnos para ofrecer una solución. En principio pensamos en enfocarnos en entretenimiento a bordo para niños, pero más tarde nos dicmos cuenta de que el tema de la seguridad era prioritario para nuestras usuarias (la mayoría fueron mujeres).
+Detectamos los *pain points* y analizamos en cual podríamos enfocarnos para ofrecer una solución. En principio pensamos en enfocarnos en entretenimiento a bordo para niños, pero más tarde nos dimos cuenta de que el tema de la seguridad era prioritario para nuestras usuarias (la mayoría fueron mujeres).
 
 * **Realizamos un mapa de empatía**
 
@@ -45,9 +45,12 @@ Decidimos enfocarnos en ofrecer asientos y adaptadores para bebés y niños, ins
 
 ## Problemas a los que nos enfrentamos
 
-* Los dispositivos de seguridad para bebés (asientos para autos, "huevitos") tienen curva de aprendizaje. Encontramos un estudio en Colombia que indicaba que del 100% de las personas que colocaban un asiento de auto para bebé por primera vez, el 100% de estas personas lo coloca mal.
+* Los dispositivos de seguridad para bebés (asientos para autos, "huevitos") tienen curva de aprendizaje. Encontramos que el porcentaje de las personas que colocan mal un asiento de auto para bebé puede ser riesgosamente alto. 
+[la silla para bebé puede ser mortal](https://www.guiainfantil.com/articulos/salud/accidentes/un-accesorio-para-la-silla-de-auto-de-tu-bebe-que-puede-ser-mortal/)
 
 * Dichos dispositivos son estorbosos, pesados y difíciles de colocar y transportar.
+
+* Dependiendo de marcas y modelos, se requieren de dispositivos diferentes dependiendo de la etapa de cada niño o bebé en relación con su talla y peso. 
 
 * Ya existen plataformas digitales de renta de asientos para auto.
 
