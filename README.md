@@ -30,13 +30,13 @@ Detectamos los *pain points* y analizamos en cual podríamos enfocarnos para ofr
 
 * **Realizamos un mapa de empatía**
 
-![Mapa de empatía](../images/IMG-20180216-WA0001)
+![Mapa de empatía](assets/images/IMG-20180216-WA0001)
 
 * **Relizamos un cuestionario mediante Google Forms para validar nuestra idea**
 
 Dentro de los insights más importantes detectamos una percepción de inseguridad general con respecto a cómo viajan niños y bebés actualmente y que la gran mayoría de las madres estarían dispuestas a pagar por mejorar dichas condiciones.
 
-![Insights](./assets/images/KidsWay(1).png)
+![Insights](assets/images/KidsWay(1).png)
 
 * **Redefinimos el problema**
 
