@@ -30,7 +30,7 @@ Detectamos los *pain points* y analizamos en cual podríamos enfocarnos para ofr
 
 * **Realizamos un mapa de empatía**
 
-![Mapa de empatía](./assets/images/IMG-20180216-WA0001)
+![Mapa de empatía](images/IMG-20180216-WA0001)
 
 * **Relizamos un cuestionario mediante Google Forms para validar nuestra idea**
 
