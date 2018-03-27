@@ -45,8 +45,8 @@ Decidimos enfocarnos en ofrecer asientos y adaptadores para bebés y niños, ins
 
 ## Problemas a los que nos enfrentamos
 
-* Los dispositivos de seguridad para bebés (asientos para autos, "huevitos") tienen curva de aprendizaje. Encontramos que el porcentaje de las personas que colocan mal un asiento de auto para bebé puede ser riesgosamente alto. 
-[la silla para bebé puede ser mortal](https://www.guiainfantil.com/articulos/salud/accidentes/un-accesorio-para-la-silla-de-auto-de-tu-bebe-que-puede-ser-mortal/)
+* Los dispositivos de seguridad para bebés (asientos para autos, "huevitos") tienen curva de aprendizaje. Encontramos que el porcentaje de las personas que colocan mal un asiento de auto para bebé puede ser riesgosamente alto. Fuente: 
+[La silla para bebé puede ser mortal](https://www.guiainfantil.com/articulos/salud/accidentes/un-accesorio-para-la-silla-de-auto-de-tu-bebe-que-puede-ser-mortal/)
 
 * Dichos dispositivos son estorbosos, pesados y difíciles de colocar y transportar.
 
@@ -67,9 +67,9 @@ Decidimos enfocarnos en ofrecer asientos y adaptadores para bebés y niños, ins
 
     1.- Generar un debate público acerca de la seguridad de los niños y bebés a bordo de los autobuses de pasajeros.
     
-    2.- Presionar a autoridades gubernamentales y líneas de autobuses para garantizar la seguridad de los menores de 2 años con dispositivos de seguridad adecuados sin costo extra para las madres y padres de familia.
+    2.- Presionar a autoridades gubernamentales y líneas de autobuses para garantizar la seguridad de los menores de 2 años con dispositivos de seguridad adecuados, idealmente sin costo extra para las madres y padres de familia.
     
-    3.- A partir de la comunidad que se forma a partir de este debate, generar el nicho para instroducir nuestra solución para niños mayores de 2 años, aptos para usar nuestro dispositivo de seguridad.
+    3.- A partir de la comunidad que se forma a partir de este debate, generar el nicho para introducir nuestra solución para niños mayores de 2 años, aptos para usar nuestro dispositivo de seguridad.
 
 ![Landing page Abrazo Seguro](./assets/images/screencapture-abrazoseguro-pagedemo-co-2018-03-09-21_41_46)
 
@@ -102,27 +102,27 @@ Posteriormente, aprovechando el awareness y boca a boca que se genere a partir d
 
 
 # La Presentación
-![Portada](./assets/presentacion/7682ac8ced054e14d956cc1cf60efe82-0)
+![Portada](../assets/presentacion/7682ac8ced054e14d956cc1cf60efe82-0)
 
-![Enunciado del problema](./assets/presentacion/7682ac8ced054e14d956cc1cf60efe82-1)
+![Enunciado del problema](../assets/presentacion/7682ac8ced054e14d956cc1cf60efe82-1)
 
-![Insights](./assets/presentacion/7682ac8ced054e14d956cc1cf60efe82-2)
+![Insights](../assets/presentacion/7682ac8ced054e14d956cc1cf60efe82-2)
 
-![Necesidades del usuario](./assets/presentacion/7682ac8ced054e14d956cc1cf60efe82-3)
+![Necesidades del usuario](../assets/presentacion/7682ac8ced054e14d956cc1cf60efe82-3)
 
-![Objetivos de negocio](./assets/presentacion/7682ac8ced054e14d956cc1cf60efe82-4)
+![Objetivos de negocio](../assets/presentacion/7682ac8ced054e14d956cc1cf60efe82-4)
 
-![Nuestra solucion](./assets/presentacion/7682ac8ced054e14d956cc1cf60efe82-5)
+![Nuestra solucion](../assets/presentacion/7682ac8ced054e14d956cc1cf60efe82-5)
 
-![Nuestra estrategia](./assets/presentacion/7682ac8ced054e14d956cc1cf60efe82-6)
+![Nuestra estrategia](./7682ac8ced054e14d956cc1cf60efe82-6)
 
-![Mapa de calor de primera version de landing page](./assets/presentacion/7682ac8ced054e14d956cc1cf60efe82-7)
+![Mapa de calor de primera version de landing page](assets/presentacion/7682ac8ced054e14d956cc1cf60efe82-7)
 
-![Landing page segunda version 1](./assets/presentacion/7682ac8ced054e14d956cc1cf60efe82-8)
+![Landing page segunda version 1](presentacion/7682ac8ced054e14d956cc1cf60efe82-8)
 
 ![Landing page segunda version 2](./assets/presentacion/7682ac8ced054e14d956cc1cf60efe82-9)
 
-![Cierre](assets/presentacion/7682ac8ced054e14d956cc1cf60efe82-10)
+![Cierre](./presentacion/7682ac8ced054e14d956cc1cf60efe82-10)
 
 
 
