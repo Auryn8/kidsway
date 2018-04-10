@@ -1,3 +1,5 @@
+![7682ac8ced054e14d956cc1cf60efe82-0](https://user-images.githubusercontent.com/32871457/38582988-357dbb84-3cd7-11e8-8921-0d2c3ad9c598.jpg)
+
 # KIDSWAY
 
 * Dení Morales - Product Owner
