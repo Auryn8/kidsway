@@ -42,7 +42,7 @@ Dentro de los insights más importantes detectamos una percepción de insegurida
 
 * **Redefinimos el problema**
 
-Decidimos enfocarnos en ofrecer asientos y adaptadores para bebés y niños, inspiradas por este video: [Niños y autobuses](https://www.youtube.com/watch?v=GNG4Z4p15Ro)
+Decidimos enfocarnos en ofrecer asientos y adaptadores para bebés y niños, inspiradas por este video: [Ninos y autobuses](https://www.youtube.com/watch?v=GNG4Z4p15Ro)
 
 
 ## Problemas a los que nos enfrentamos
