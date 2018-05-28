@@ -1,4 +1,4 @@
-
+![kidsway-square](https://user-images.githubusercontent.com/32871457/40625047-b69eb542-6275-11e8-92a4-90fe581ff49b.png)
 
 # KIDSWAY
 
