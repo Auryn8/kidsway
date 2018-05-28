@@ -1,4 +1,4 @@
-![Portada](assets/presentacion/7682ac8ced054e14d956cc1cf60efe82-0.jpg)
+
 
 # KIDSWAY
 
