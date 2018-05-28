@@ -1,4 +1,4 @@
-![7682ac8ced054e14d956cc1cf60efe82-0](https://user-images.githubusercontent.com/32871457/38582988-357dbb84-3cd7-11e8-8921-0d2c3ad9c598.jpg)
+![Portada](assets/presentacion/7682ac8ced054e14d956cc1cf60efe82-0.jpg)
 
 # KIDSWAY
 
@@ -104,27 +104,27 @@ Posteriormente, aprovechando el awareness y boca a boca que se genere a partir d
 
 
 ## La Presentación
-![Portada](https://github.com/Auryn8/kidsway/blob/master/assets/presentacion/7682ac8ced054e14d956cc1cf60efe82-0.jpg)
+![Portada](assets/presentacion/7682ac8ced054e14d956cc1cf60efe82-0.jpg)
 
-![Enunciado del problema](https://github.com/Auryn8/kidsway/blob/master/assets/presentacion/7682ac8ced054e14d956cc1cf60efe82-1.jpg)
+![Enunciado del problema](assets/presentacion/7682ac8ced054e14d956cc1cf60efe82-1.jpg)
 
-![Insights](https://github.com/Auryn8/kidsway/blob/master/assets/presentacion/7682ac8ced054e14d956cc1cf60efe82-2.jpg)
+![Insights](assets/presentacion/7682ac8ced054e14d956cc1cf60efe82-2.jpg)
 
-![Necesidades del usuario](https://github.com/Auryn8/kidsway/blob/master/assets/presentacion/7682ac8ced054e14d956cc1cf60efe82-3.jpg)
+![Necesidades del usuario](assets/presentacion/7682ac8ced054e14d956cc1cf60efe82-3.jpg)
 
-![Objetivos de negocio](https://github.com/Auryn8/kidsway/blob/master/assets/presentacion/7682ac8ced054e14d956cc1cf60efe82-4.jpg)
+![Objetivos de negocio](assets/presentacion/7682ac8ced054e14d956cc1cf60efe82-4.jpg)
 
-![Nuestra solucion](https://github.com/Auryn8/kidsway/blob/master/assets/presentacion/7682ac8ced054e14d956cc1cf60efe82-5.jpg)
+![Nuestra solucion](assets/presentacion/7682ac8ced054e14d956cc1cf60efe82-5.jpg)
 
-![Nuestra estrategia](https://github.com/Auryn8/kidsway/blob/master/assets/presentacion/7682ac8ced054e14d956cc1cf60efe82-6.jpg)
+![Nuestra estrategia](assets/presentacion/7682ac8ced054e14d956cc1cf60efe82-6.jpg)
 
-![Mapa de calor de primera version de landing page](https://github.com/Auryn8/kidsway/blob/master/assets/presentacion/7682ac8ced054e14d956cc1cf60efe82-7.jpg)
+![Mapa de calor de primera version de landing page](assets/presentacion/7682ac8ced054e14d956cc1cf60efe82-7.jpg)
 
-![Landing page segunda version 1](https://github.com/Auryn8/kidsway/blob/master/assets/presentacion/7682ac8ced054e14d956cc1cf60efe82-8.jpg)
+![Landing page segunda version 1](assets/presentacion/7682ac8ced054e14d956cc1cf60efe82-8.jpg)
 
-![Landing page segunda version 2](https://github.com/Auryn8/kidsway/blob/master/assets/presentacion/7682ac8ced054e14d956cc1cf60efe82-9.jpg)
+![Landing page segunda version 2](assets/presentacion/7682ac8ced054e14d956cc1cf60efe82-9.jpg)
 
-![Cierre](https://github.com/Auryn8/kidsway/blob/master/assets/presentacion/7682ac8ced054e14d956cc1cf60efe82-10.jpg)
+![Cierre](assets/presentacion/7682ac8ced054e14d956cc1cf60efe82-10.jpg)
 
 
 
